@@ -15,6 +15,8 @@ Intermediate/
 Saved/
 StarterContent/
 Config/
+!Plugins/ISMConverter/Config/
 Content/
 Source/
+!Plugins/ISMConverter/Source/
 *.uproject
